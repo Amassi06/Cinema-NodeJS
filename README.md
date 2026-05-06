@@ -18,7 +18,7 @@
 | Domaine | Usage |
 |--------|--------|
 | **docs.aimassi.dev** | Documentation Swagger — nginx redirige automatiquement vers `/docs`. |
-| **db.aimassi.dev** | MySQL (accès selon ta conf réseau / pare-feu). |
+| **db.aimassi.dev** | MySQL |
 | **zenith.aimassi.dev** | Front Cinéma Zenith (appli web). |
 
 **Base MySQL (prod)** : utilisateur `cinema`, mot de passe `cinema123`.
