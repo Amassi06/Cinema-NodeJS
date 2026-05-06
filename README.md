@@ -1,4 +1,4 @@
-# CinéScope
+# Zénith Cinema
 
 **Stack :** Node/TS, Express, TypeORM, MySQL, JWT (access 5 min + refresh en base), Docker Compose (API + MySQL + front).
 
